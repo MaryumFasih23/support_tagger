@@ -148,3 +148,7 @@ MIT License (see LICENSE file if applicable)
 ## Contact
 
 For support or inquiries, open an issue in the repository or contact the project maintainers.
+
+## Author
+
+Maryum Fasih  
